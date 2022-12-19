@@ -1,4 +1,7 @@
+<<<<<<< HEAD
 new 4. line 
 Aa sthirn lien 
+=======
+>>>>>>> parent of 74ee628 (3. line in helo)
 new line 
 jijow jes now 
